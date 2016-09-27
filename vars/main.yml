@@ -1,0 +1,4 @@
+# roles/nginx/vars/main.yml
+---
+nginx_pkgs:
+  - nginx
